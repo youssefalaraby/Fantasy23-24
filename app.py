@@ -130,7 +130,7 @@ def pizzaplot(params,values,min_range,max_range,name,team):
         ha="right"
     )
    
-    plt.show()
+    
     return fig
 
 def find_low_high(data,param):
